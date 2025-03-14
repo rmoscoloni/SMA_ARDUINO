@@ -1,2 +1,2 @@
 # SMA_ADC_READ
- Arduino Analog Read
+ Simple Arduino Analog Read Sketch for testing.
